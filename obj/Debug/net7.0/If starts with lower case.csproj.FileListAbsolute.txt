@@ -1,0 +1,15 @@
+C:\Mon_Code\If starts with lower case\obj\Debug\net7.0\If starts with lower case.csproj.AssemblyReference.cache
+C:\Mon_Code\If starts with lower case\obj\Debug\net7.0\If starts with lower case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mon_Code\If starts with lower case\obj\Debug\net7.0\If starts with lower case.AssemblyInfoInputs.cache
+C:\Mon_Code\If starts with lower case\obj\Debug\net7.0\If starts with lower case.AssemblyInfo.cs
+C:\Mon_Code\If starts with lower case\obj\Debug\net7.0\If starts with lower case.csproj.CoreCompileInputs.cache
+C:\Mon_Code\If starts with lower case\bin\Debug\net7.0\If starts with lower case.exe
+C:\Mon_Code\If starts with lower case\bin\Debug\net7.0\If starts with lower case.deps.json
+C:\Mon_Code\If starts with lower case\bin\Debug\net7.0\If starts with lower case.runtimeconfig.json
+C:\Mon_Code\If starts with lower case\bin\Debug\net7.0\If starts with lower case.dll
+C:\Mon_Code\If starts with lower case\bin\Debug\net7.0\If starts with lower case.pdb
+C:\Mon_Code\If starts with lower case\obj\Debug\net7.0\If starts with lower case.dll
+C:\Mon_Code\If starts with lower case\obj\Debug\net7.0\refint\If starts with lower case.dll
+C:\Mon_Code\If starts with lower case\obj\Debug\net7.0\If starts with lower case.pdb
+C:\Mon_Code\If starts with lower case\obj\Debug\net7.0\If starts with lower case.genruntimeconfig.cache
+C:\Mon_Code\If starts with lower case\obj\Debug\net7.0\ref\If starts with lower case.dll
